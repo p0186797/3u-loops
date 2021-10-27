@@ -32,7 +32,7 @@ A palindrome is a word that is identical forward and backward. For example ‘an
 ---
 Create a python file called **loops2.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. 
 
-Write a program that takes in a number N that represents a number of students. Each of the next pair of inputs represents a name and a mark. Your program outputs the name of the student with the highest mark. If there are multiple students with the same mark, it outputs all of their names separated with a space. Make sure there is no extra white space at the end of your output.
+Write a program that takes in a number N that represents a number of students. Each of the next pair of inputs represents a name and a mark. Your program outputs the name of the student with the highest mark. If there are multiple students with the same mark, it outputs all of their names separated with a comma followed by a space. Make sure there is no extra white space at the end of your output.
 
 
 &nbsp;&nbsp; **Sample Input 1**
