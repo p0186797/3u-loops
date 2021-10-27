@@ -131,7 +131,7 @@ Write a program that reads a number representing the number of grades to be ente
 
 &nbsp;&nbsp; **Sample Output**
 
-    3.82
+    3.22
     
 ---
 Create a python file called **loops5.py** and upload it to this repo. At the beginning of the python file, write a description of the program(s) in a comment. 
